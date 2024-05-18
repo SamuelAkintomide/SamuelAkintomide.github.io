@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.70399a05.css",
-    "main.js": "/static/js/main.88c84bdf.js",
+    "main.css": "/static/css/main.d6e61533.css",
+    "main.js": "/static/js/main.a61bbbc6.js",
     "static/media/clothingSite.gif": "/static/media/clothingSite.00dfe4f2d4572c04b7f4.gif",
     "static/media/shoto.gif": "/static/media/shoto.27e819f93703e48ab3e0.gif",
     "static/media/Full Build.stl": "/static/media/Full Build.30f398fdbe458be0b479.stl",
+    "static/media/sass.png": "/static/media/sass.8ba7d03fd1e6a2b1e17d.png",
+    "static/media/java.png": "/static/media/java.09a6ada920b400ad7784.png",
+    "static/media/github.png": "/static/media/github.2daf8617f4b92d421da4.png",
+    "static/media/mysql.png": "/static/media/mysql.0ee1b7619a110fb169f3.png",
+    "static/media/unity.png": "/static/media/unity.bc9af22bc3ab383dbc83.png",
+    "static/media/c.png": "/static/media/c.726fe9d3f10ab790e880.png",
+    "static/media/python.png": "/static/media/python.dbfdc5fd82a88fd42de0.png",
+    "static/media/html5.png": "/static/media/html5.7fc1c85c383ab42a787b.png",
     "index.html": "/index.html",
-    "main.70399a05.css.map": "/static/css/main.70399a05.css.map",
-    "main.88c84bdf.js.map": "/static/js/main.88c84bdf.js.map"
+    "main.d6e61533.css.map": "/static/css/main.d6e61533.css.map",
+    "main.a61bbbc6.js.map": "/static/js/main.a61bbbc6.js.map"
   },
   "entrypoints": [
-    "static/css/main.70399a05.css",
-    "static/js/main.88c84bdf.js"
+    "static/css/main.d6e61533.css",
+    "static/js/main.a61bbbc6.js"
   ]
 }
