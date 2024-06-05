@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[488],{5488:(e,p,a)=>{e.exports=a.p+"static/media/My project.d6a8cf1f6b0144a0acc0.exe"}}]);
