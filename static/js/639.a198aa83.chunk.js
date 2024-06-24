@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[639],{6639:(s,c,e)=>{e.r(c),e.d(c,{default:()=>o});e(5043);const n="clothing_mediaControl__Uy9GN";var r=e(579);const o=function(){return(0,r.jsx)("div",{className:n,children:(0,r.jsx)("video",{controls:!0,children:(0,r.jsx)("source",{src:e(1591)})})})}}}]);
+//# sourceMappingURL=639.a198aa83.chunk.js.map
